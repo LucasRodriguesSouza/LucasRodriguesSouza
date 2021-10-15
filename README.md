@@ -1,16 +1,14 @@
-### Hi there 👋
+### Lucas Rodrigues
+ [![Gmail Badge](https://img.shields.io/badge/-lucasrosou@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasrosou@gmail.com)](mailto:lucasrosou@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
 
-<!--
-**LucasRodriguesSouza/LucasRodriguesSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  **Learning :** Web and Mobile Development | Open-Source
+-  **Hobbies :** Gamming 🎮, Motorcycles 🏍️ and Bodybuilding 🦾
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+![github stats](https://github-readme-stats.vercel.app/api?username=LucasRodriguesSouza&show_icons=true&theme=tokyonight)
+<br></br>
+![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LucasRodriguesSouza&layout=compact&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Kudos to https://github.com/srIsaac for designing this awesome `Readme.md`

@@ -4,7 +4,7 @@
 ### About
 
 -  **Learning :** Web and Mobile Development | Open-Source
--  **Hobbies :** Gamming 🎮, Motorcycles 🏍️ and Bodybuilding 🦾
+-  **Hobbies :** Gamming, Drawning, Create fictional stories and Make games
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=LucasRodriguesSouza&show_icons=true&theme=tokyonight)
